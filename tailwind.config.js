@@ -20,7 +20,12 @@ module.exports = {
         "light-olive": "#D3C7A1",
         "moss-green": "#8A9A5B",
         services: "#9ccccb",
-
+        primarySageGreen: "#4A6650", // for navbar, headings, primary buttons
+        burntSienna: "#E07A5F", // for CTA buttons, standout elements
+        lightBeige: "#F2E9E4", // for page backgrounds, larger sections
+        darkSlate: "#333333", // for body text, smaller headings
+        softSageGreen: "#A3B18A", // for subtle accents, borders
+        forestGreen: "#2F4F4F",
         "Sage-green": "#B7D8C3",
         "deep-sageGreen": "#4A7C59",
         "muted-sageGreen": "#B2AC88",
