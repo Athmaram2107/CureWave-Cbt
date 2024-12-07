@@ -1,4 +1,9 @@
+This is next.js project but mainly focused on react and tailwind css for doing it, this was website for online therapy where clients can interact with various resources .It was totally frontend project,no backend was used.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 
 ## Getting Started
 
